@@ -1,5 +1,5 @@
 # Welcome
-Click on the links below to see the projects I completed!
+<b>Click on the links below to see the projects I completed!</b>
 
 
 I created a website for the SHIELD Drive Science Center.<br>
