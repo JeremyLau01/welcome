@@ -9,7 +9,7 @@ I created an interactive where you can walk around a town in the Dust Bowl. I us
 <a target="_blank" rel="noopener noreferrer" href="https://tinyurl.com/JeremyLauInteractiveDustBowl">Click here!</a>
 
 I created a homepage website you can link to for your browser.
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/IMG_New_Tab/blob/master/README.md">Click here!</a>
+<a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/IMG_New_Tab/">Click here!</a>
 
 I created a 2D multiplayer game with projectiles.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/MultiGameTry1_FromSecondAccount">Click here!</a>
