@@ -1,4 +1,4 @@
-<h1>Welcome to Jeremy Lau's project page!</h1></b>
+<h1>Welcome to Jeremy Lau's project page!</h1>
 <b>Click on the links below to see the projects I completed!</b>
 
 
