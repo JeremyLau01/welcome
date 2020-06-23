@@ -8,8 +8,8 @@ I created a website for the SHIELD Drive Science Center.
 I created an interactive where you can walk around a town in the Dust Bowl. I used Fusion 360 to make all the 3D models and I used Unity 3D along with Visual Studio to create the interactive.
 <a target="_blank" rel="noopener noreferrer" href="https://tinyurl.com/JeremyLauInteractiveDustBowl">Click here!</a>
 
-I created a homepage website you can link to for your browser.
-<a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/IMG_New_Tab/">Click here!</a>
+I created a homepage website you can link to for your browser. There is a new background image every day (total of 50 unique photos)!
+<a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/NewTab/">Click here!</a>
 
 I created a 2D multiplayer game with projectiles.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/MultiGameTry1_FromSecondAccount">Click here!</a>
