@@ -11,6 +11,9 @@ I created an interactive where you can walk around a town in the Dust Bowl. I us
 I created a homepage website you can link to for your browser. There is a new background image every day (total of 50 unique photos)!
 <a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/NewTab/">Click here!</a>
 
+I created a deep neural network that predicts the weight of a fish from its dimensions.
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Deep-Neural-Network_Fish_Weight">Click here!</a>
+
 I created a 2D multiplayer game with projectiles.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/MultiGameTry1_FromSecondAccount">Click here!</a>
 
@@ -19,6 +22,3 @@ I created a basic 2D multiplayer game.
 
 I created a video that visualizes data from a process called cavitation using Python.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/BU_Lab__Sophomore_Summer">Click here!</a>
-
-I created a deep neural network that predicts the weight of a fish from its dimensions.
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Deep-Neural-Network_Fish_Weight">Click here!</a>
