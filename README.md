@@ -19,3 +19,6 @@ I created a basic 2D multiplayer game.
 
 I created a video that visualizes data from a process called cavitation using Python.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/BU_Lab__Sophomore_Summer">Click here!</a>
+
+I created a deep neural network that predicts the weight of a fish from its dimensions.
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Deep-Neural-Network_Fish_Weight">Click here!</a>
