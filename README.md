@@ -1,5 +1,5 @@
-<h1>Welcome to Jeremy Lau's project page!</h1><br>
-<b>Click on the links below to see the projects I completed!</b>
+<h1>Welcome to Jeremy Lau's project page!</h1>
+<b>Click on the links below to see the projects I completed!</b><br>
 
 
 I created a website for the SHIELD Drive Science Center.
