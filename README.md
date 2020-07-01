@@ -8,10 +8,10 @@ I created a website for the SHIELD Drive Science Center.
 I created an interactive where you can walk around a town in the Dust Bowl. I used Fusion 360 to make all the 3D models and I used Unity 3D along with Visual Studio to create the interactive.
 <a target="_blank" rel="noopener noreferrer" href="https://tinyurl.com/JeremyLauInteractiveDustBowl">Click here!</a>
 
-I created a deep neural network that predicts the weight of a fish from its dimensions.
+I created a deep neural network that predicts the weight of a fish from its dimensions. [Machine learning]
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Deep-Neural-Network_Fish_Weight">Click here!</a>
 
-I created a convolutional neural network that recognizes handwritten digits (0-9).
+I created a convolutional neural network that recognizes handwritten digits (0-9). [Machine learning]
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Convolutional_Neural_Network-MNIST">Click here!</a>
 
 I created a homepage website you can link to for your browser using HTML, CSS, and JavaScript. There is a new background image every day (total of 50 unique photos)!
