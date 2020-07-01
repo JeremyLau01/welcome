@@ -2,7 +2,7 @@
 <b>Click on the links below to see the projects I completed!</b>
 
 
-<br>I created an interactive where you can walk around a town in the Dust Bowl. I used Fusion 360 to make all the 3D models and I used Unity 3D along with Visual Studio to create the interactive.
+<br>I created an interactive learning activity where you can walk around a town in the Dust Bowl. I used Fusion 360 to make all the 3D models and I used Unity 3D along with Visual Studio to create the interactive.
 <a target="_blank" rel="noopener noreferrer" href="https://tinyurl.com/JeremyLauInteractiveDustBowl">Click here!</a>
 
 I created a website for the SHIELD Drive Science Center.
