@@ -1,8 +1,8 @@
 <h1>Welcome to Jeremy Lau's project page!</h1>
-<b>Click on the links below to see the projects I completed!</b><br>
+<b>Click on the links below to see the projects I completed!</b>
 
 
-I created a website for the SHIELD Drive Science Center.
+<br>I created a website for the SHIELD Drive Science Center.
 <a target="_blank" rel="noopener noreferrer" href="http://sites.bu.edu/shield-drive/">Click here!</a>
 
 I created an interactive where you can walk around a town in the Dust Bowl. I used Fusion 360 to make all the 3D models and I used Unity 3D along with Visual Studio to create the interactive.
