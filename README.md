@@ -8,6 +8,9 @@
 I created a website for the SHIELD Drive Science Center.
 <a target="_blank" rel="noopener noreferrer" href="http://sites.bu.edu/shield-drive/">Click here!</a>
 
+I created a machine learning model that writes text in the style of Sun Tzu. 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM">Click here!</a>
+
 I created a machine learning model that recognizes handwritten numbers (0-9).
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Convolutional_Neural_Network-MNIST">Click here!</a>
 
