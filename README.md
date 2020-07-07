@@ -6,7 +6,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://jeremylau01.github.io/Final-Dust-Bowl-Interactive/">Click here!</a>
 
 I created a website for the SHIELD Drive Science Center.
-<a target="_blank" rel="noopener noreferrer" href="http://sites.bu.edu/shield-drive/">Click here!</a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Website-SHIELD-Drive">Click here!</a>
 
 I created a machine learning model that writes text in the style of Sun Tzu. 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM">Click here!</a>
