@@ -8,6 +8,9 @@
 I created a website for the SHIELD Drive Science Center.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Website-SHIELD-Drive">Click here!</a>
 
+I created a video that visualizes data from a process called cavitation using Python.
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/BU_Lab__Sophomore_Summer">Click here!</a>
+
 I created a machine learning model that writes text in the style of Sun Tzu. 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Write_Like_Sun_Tzu_LSTM">Click here!</a>
 
@@ -16,9 +19,6 @@ I created a machine learning model that recognizes handwritten numbers (0-9).
 
 I created a machine learning model that predicts the weight of a fish from its dimensions.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/Deep-Neural-Network_Fish_Weight">Click here!</a>
-
-I created a video that visualizes data from a process called cavitation using Python.
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/BU_Lab__Sophomore_Summer">Click here!</a>
 
 I created a multiplayer game with projectiles in Unity 2D.
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/JeremyLau01/MultiGameTry1_FromSecondAccount">Click here!</a>
